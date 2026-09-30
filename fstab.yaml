@@ -1,5 +1,6 @@
 mountpoints:
   /:
-    url: "https://author-p130360-e1272151.adobeaemcloud.com/bin/franklin.delivery/sanjeevkalwar/EDSWork/main"
+    url: "https://author-p153710-e1614654.adobeaemcloud.com/bin/franklin.delivery/sanjeevkalwar/EDSWork/main"
     type: "markup"
     suffix: ".html"
+
